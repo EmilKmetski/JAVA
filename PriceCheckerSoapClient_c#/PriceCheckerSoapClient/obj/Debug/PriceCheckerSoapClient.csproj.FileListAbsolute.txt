@@ -1,0 +1,9 @@
+E:\Projects\PriceCheckerSoapClient\PriceCheckerSoapClient\bin\Debug\PriceCheckerSoapClient.exe.config
+E:\Projects\PriceCheckerSoapClient\PriceCheckerSoapClient\bin\Debug\PriceCheckerSoapClient.exe
+E:\Projects\PriceCheckerSoapClient\PriceCheckerSoapClient\bin\Debug\PriceCheckerSoapClient.pdb
+E:\Projects\PriceCheckerSoapClient\PriceCheckerSoapClient\obj\Debug\PriceCheckerSoapClient.csprojResolveAssemblyReference.cache
+E:\Projects\PriceCheckerSoapClient\PriceCheckerSoapClient\obj\Debug\PriceCheckerSoapClient.Properties.Resources.resources
+E:\Projects\PriceCheckerSoapClient\PriceCheckerSoapClient\obj\Debug\PriceCheckerSoapClient.csproj.GenerateResource.Cache
+E:\Projects\PriceCheckerSoapClient\PriceCheckerSoapClient\obj\Debug\PriceCheckerSoapClient.exe
+E:\Projects\PriceCheckerSoapClient\PriceCheckerSoapClient\obj\Debug\PriceCheckerSoapClient.pdb
+E:\Projects\PriceCheckerSoapClient\PriceCheckerSoapClient\obj\Debug\PriceCheckerSoapClient.itemVireForm.resources
